@@ -4,7 +4,7 @@
 이 API는 [서비스 이름]에서 제공하는 기능을 외부에서 사용할 수 있도록 하는 RESTful API입니다.
 
 ### Base URL
-https://api.example.com/v1/
+https://api.example.com/v1
 
 
 ## Authentication
