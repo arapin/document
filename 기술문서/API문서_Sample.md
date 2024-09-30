@@ -59,13 +59,3 @@ curl -X GET
 - API 요청은 시간당 1000회로 제한됩니다. 초과 시 `429 Too Many Requests` 응답을 받습니다.
 
 
-### 주요 요소
-- **Base URL**: API의 기본 URL을 제공합니다.
-- **인증(Authentication)**: API가 요구하는 인증 방식(Bearer 토큰 등)을 설명합니다.
-- **엔드포인트(Endpoints)**: 각 API 엔드포인트에 대해 요청 방법(GET, POST 등), URI, 요청/응답 예시 및 상태 코드를 제공합니다.
-- **에러 코드(Error Codes)**: 발생 가능한 에러 코드와 그 의미를 설명합니다.
-- **레이트 리미팅(Rate Limiting)**: API 요청 제한 정보를 명시합니다.
-- **지원(Support)**: 지원 방법을 제공합니다.
-
-이 마크다운 형식을 HTML, PDF 등으로 변환해 쉽게 외부에 배포할 수 있습니다.
-
